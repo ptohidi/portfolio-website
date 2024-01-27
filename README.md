@@ -428,5 +428,3 @@ Explore how you can use Copilot to help you:
 
 ## 🔎 Found an issue or have an idea for improvement? 
 Help us make this template repository better by [letting us know and opening an issue!](/../../issues/new).
-
-## A little something at the end
